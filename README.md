@@ -45,3 +45,6 @@ DiY Advanced Track @ [Advanced Track](advanced.md)
 ## [Whats your use case?](https://github.com/orgs/wadwc/discussions/4)
 
 ## [Feedback](https://github.com/orgs/wadwc/discussions/3)
+
+
+SHow me how the review process works
